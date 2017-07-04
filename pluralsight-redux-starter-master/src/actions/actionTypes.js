@@ -1,0 +1,1 @@
+export const CREATE_FOOD = 'CREATE_FOOD';
